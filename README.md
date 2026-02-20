@@ -1,1 +1,1 @@
-Beberapa project yang telah saya lakukan baik secara individu maupun group project selama saya berkuliah maupun saat magang
+This repository contains several projects I completed during my academic studies and internship, both individual and group assignments.
